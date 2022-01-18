@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/xampp/htdocs/radiantsite/js/wow.min.js",
+        "C:/xampp/htdocs/radiantsite/js/wow.js",
+        "C:/xampp/htdocs/radiantsite/js/waves.js",
+        "C:/xampp/htdocs/radiantsite/js/velocity.min.js"
+    ]
+}
